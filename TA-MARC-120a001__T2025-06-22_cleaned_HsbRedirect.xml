@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03225cam a2200733 c 4500</leader>
+  <controlfield tag="001">181620758</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20250622093158.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">950302s1993    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3925258159</subfield>
+    <subfield code="9">3-925258-15-9</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)181620758</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)061168262</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV181620758</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)256821861</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-604)8125974809</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">11.77</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Evas Töchter</subfield>
+    <subfield code="b">Texte und Materialien für den ev. Religionsunterricht an Gymnasien</subfield>
+    <subfield code="c">Religionspädagogisches Institut Loccum. Projektgruppe "Z": Dirk Röller (Hrsg.). Beate Blatz ...</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Rehburg-Loccum</subfield>
+    <subfield code="b">RPI</subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">64 S</subfield>
+    <subfield code="b">Ill</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Arbeitshilfen Gymnasium</subfield>
+    <subfield code="v">3</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Literaturangaben</subfield>
+  </datafield>
+  <datafield tag="505" ind1="8" ind2=" ">
+    <subfield code="a">Literaturangaben</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Adam erkannte sein Weib. Heißt es. "Gruß und Kuß: Dein Julius". Wach auf Deborah! Wir drehen das Hohelied. Zeichenhandlungen sind kein Schweigen. Er küßt mich auf den Mund - die verschwundene Geschichte der Maria Magdalena. Verdeckte Töchter - rechts die Mutter, links der Vater - Stadt der Frauen. Stadt der Frauen. Er schuf sie beide.</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20250503</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">2</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung/Langzeitarchivierung gewährleistet</subfield>
+    <subfield code="f">PENI</subfield>
+    <subfield code="x">XA-DE-NI</subfield>
+    <subfield code="2">pdager</subfield>
+    <subfield code="5">DE-35</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20240324</subfield>
+    <subfield code="f">DE-4165</subfield>
+    <subfield code="z">3</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Lehrmittel</subfield>
+    <subfield code="0">(DE-588)4074111-4</subfield>
+    <subfield code="0">(DE-627)104279885</subfield>
+    <subfield code="0">(DE-576)209192496</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4018202-2</subfield>
+    <subfield code="0">(DE-627)104270705</subfield>
+    <subfield code="0">(DE-576)208923209</subfield>
+    <subfield code="a">Frau</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4071776-8</subfield>
+    <subfield code="0">(DE-627)104509104</subfield>
+    <subfield code="0">(DE-576)209184876</subfield>
+    <subfield code="a">Geschlechterrolle</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="2">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4071045-2</subfield>
+    <subfield code="0">(DE-627)104814217</subfield>
+    <subfield code="0">(DE-576)209182733</subfield>
+    <subfield code="a">Evangelischer Religionsunterricht</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="3">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4022648-7</subfield>
+    <subfield code="0">(DE-627)10445928X</subfield>
+    <subfield code="0">(DE-576)208945024</subfield>
+    <subfield code="a">Gymnasium</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Röller, Dirk</subfield>
+    <subfield code="d">1937-2002</subfield>
+    <subfield code="e">Hrsg.</subfield>
+    <subfield code="0">(DE-588)1116648296</subfield>
+    <subfield code="0">(DE-627)870613707</subfield>
+    <subfield code="0">(DE-576)175748705</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Blatz, Beate</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Religionspädagogisches Institut Loccum</subfield>
+    <subfield code="0">(DE-588)2101162-X</subfield>
+    <subfield code="0">(DE-627)100910688</subfield>
+    <subfield code="0">(DE-576)193088207</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Arbeitshilfen Gymnasium</subfield>
+    <subfield code="v">3</subfield>
+    <subfield code="9">3</subfield>
+    <subfield code="w">(DE-627)514563796</subfield>
+    <subfield code="w">(DE-576)038229234</subfield>
+    <subfield code="w">(DE-600)2242849-5</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="889" ind1=" " ind2=" ">
+    <subfield code="w">(DE-627)074844423</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">11.77</subfield>
+    <subfield code="j">Religionspädagogik</subfield>
+    <subfield code="0">(DE-627)106403931</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+  <datafield tag="983" ind1=" " ind2=" ">
+    <subfield code="a">oc</subfield>
+  </datafield>
+  <datafield tag="983" ind1=" " ind2=" ">
+    <subfield code="a">oa</subfield>
+  </datafield>
+  <datafield tag="987" ind1=" " ind2=" ">
+    <subfield code="a">HSB Umlenkung</subfield>
+  </datafield>
+  <datafield tag="990" ind1=" " ind2=" ">
+    <subfield code="a">181620758</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>05763cam a2201393 c 4500</leader>
+  <controlfield tag="001">245432035</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20250622091634.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">980620s1998    gw ||||| m    00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">98,N27,0259</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">98,A41,0437</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">953857247</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3631333714</subfield>
+    <subfield code="c"> : ca. DM 79.00 (kart., freier Pr.)</subfield>
+    <subfield code="9">3-631-33371-4</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)245432035</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)066872006</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)DNB953857247</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)845080986</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)60550772</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)246389153</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)246389153</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE</subfield>
+    <subfield code="c">XA-CH</subfield>
+    <subfield code="c">XD-US</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="0">
+    <subfield code="a">HF5429.235.G3</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">17</subfield>
+    <subfield code="2">sdnb</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">3,7</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">QR 420</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/142032:</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">QP 621</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/141912:</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">88.10</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">85.40</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fiebig, Markus H.</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Franchising im öffentlichen Sektor</subfield>
+    <subfield code="b">ein alternatives Organisationsmodell zur Steigerung der Produktivität im öffentlichen Bereich</subfield>
+    <subfield code="c">Markus H. Fiebig</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Frankfurt am Main</subfield>
+    <subfield code="a">Berlin</subfield>
+    <subfield code="a">Bern</subfield>
+    <subfield code="a">Wien [u.a.]</subfield>
+    <subfield code="b">Lang</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">225 S.</subfield>
+    <subfield code="b">graph. Darst.</subfield>
+    <subfield code="c">21 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Europäische Hochschulschriften</subfield>
+    <subfield code="a">Reihe 5, Volks- und Betriebswirtschaft</subfield>
+    <subfield code="v">2344</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Literaturverz. S. 211 - 225</subfield>
+  </datafield>
+  <datafield tag="502" ind1=" " ind2=" ">
+    <subfield code="a">Zugl.: Oldenburg, Univ., Diss., 1998</subfield>
+  </datafield>
+  <datafield tag="505" ind1="8" ind2=" ">
+    <subfield code="a">Literaturverz. S. 211 - 225</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20250503</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">3</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Verwaltungsreform</subfield>
+    <subfield code="0">(DE-627)091398622</subfield>
+    <subfield code="0">(DE-2867)16336-1</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">Franchising</subfield>
+    <subfield code="0">(DE-627)091361044</subfield>
+    <subfield code="0">(DE-2867)12782-5</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.3\x</subfield>
+    <subfield code="a">Öffentlicher Sektor</subfield>
+    <subfield code="0">(DE-627)091381096</subfield>
+    <subfield code="0">(DE-2867)11722-0</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.4\x</subfield>
+    <subfield code="a">Produktivität</subfield>
+    <subfield code="0">(DE-627)091384575</subfield>
+    <subfield code="0">(DE-2867)10460-2</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.5\x</subfield>
+    <subfield code="a">Abwasserwirtschaft</subfield>
+    <subfield code="0">(DE-627)091345693</subfield>
+    <subfield code="0">(DE-2867)13329-6</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.6\x</subfield>
+    <subfield code="a">Kommunalverwaltung</subfield>
+    <subfield code="0">(DE-627)091371414</subfield>
+    <subfield code="0">(DE-2867)16550-6</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.7\x</subfield>
+    <subfield code="a">Theorie</subfield>
+    <subfield code="0">(DE-627)091394902</subfield>
+    <subfield code="0">(DE-2867)19073-6</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Franchises (Retail trade)</subfield>
+    <subfield code="x">Germany</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Privatization</subfield>
+    <subfield code="x">Germany</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="0">(DE-588)4075581-2</subfield>
+    <subfield code="0">(DE-627)10608562X</subfield>
+    <subfield code="0">(DE-576)209198575</subfield>
+    <subfield code="a">Öffentliches Unternehmen</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="0">(DE-588)4018062-1</subfield>
+    <subfield code="0">(DE-627)106327747</subfield>
+    <subfield code="0">(DE-576)20892227X</subfield>
+    <subfield code="a">Franchising</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="4">
+    <subfield code="0">(DE-206)3</subfield>
+    <subfield code="a">Bibliographie enthalten</subfield>
+    <subfield code="5">DE-206</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Hochschulschrift</subfield>
+    <subfield code="0">(DE-588)4113937-9</subfield>
+    <subfield code="0">(DE-627)105825778</subfield>
+    <subfield code="0">(DE-576)209480580</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4075581-2</subfield>
+    <subfield code="0">(DE-627)10608562X</subfield>
+    <subfield code="0">(DE-576)209198575</subfield>
+    <subfield code="a">Öffentliches Unternehmen</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4018062-1</subfield>
+    <subfield code="0">(DE-627)106327747</subfield>
+    <subfield code="0">(DE-576)20892227X</subfield>
+    <subfield code="a">Franchising</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="751" ind1=" " ind2=" ">
+    <subfield code="a">Oldenburg</subfield>
+    <subfield code="4">uvp</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Europäische Hochschulschriften / 5</subfield>
+    <subfield code="v">2344</subfield>
+    <subfield code="9">2344</subfield>
+    <subfield code="w">(DE-627)130134260</subfield>
+    <subfield code="w">(DE-576)015671569</subfield>
+    <subfield code="w">(DE-600)510547-X</subfield>
+    <subfield code="x">0531-7339</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://www.gbv.de/dms/sub-hamburg/245432035.pdf</subfield>
+    <subfield code="m">V:DE-601</subfield>
+    <subfield code="m">B:DE-18</subfield>
+    <subfield code="q">pdf/application</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="y">Inhaltsverzeichnis</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+  </datafield>
+  <datafield tag="889" ind1=" " ind2=" ">
+    <subfield code="w">(DE-627)074830368</subfield>
+  </datafield>
+  <datafield tag="889" ind1=" " ind2=" ">
+    <subfield code="w">(DE-627)258271302</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">QR 420</subfield>
+    <subfield code="b">Öffentliche Unternehmen</subfield>
+    <subfield code="k">Wirtschaftswissenschaften</subfield>
+    <subfield code="k">Gewerbepolitik. Einzelne Wirtschaftszweige</subfield>
+    <subfield code="k">Wettbewerbs- und Monopolpolitik</subfield>
+    <subfield code="k">Sonstige Bereiche der Gewerbepolitik</subfield>
+    <subfield code="k">Öffentliche Unternehmen</subfield>
+    <subfield code="0">(DE-627)1271482541</subfield>
+    <subfield code="0">(DE-625)rvk/142032:</subfield>
+    <subfield code="0">(DE-576)201482541</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">QP 621</subfield>
+    <subfield code="b">Absatzmethoden</subfield>
+    <subfield code="k">Wirtschaftswissenschaften</subfield>
+    <subfield code="k">Allgemeine Betriebswirtschaftslehre</subfield>
+    <subfield code="k">Aufbauelemente des Unternehmens</subfield>
+    <subfield code="k">Absatz</subfield>
+    <subfield code="k">Einzelne absatzpolitische Instrumente</subfield>
+    <subfield code="k">Absatzmethoden</subfield>
+    <subfield code="0">(DE-627)1271477599</subfield>
+    <subfield code="0">(DE-625)rvk/141912:</subfield>
+    <subfield code="0">(DE-576)201477599</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">88.10</subfield>
+    <subfield code="j">Öffentliche Verwaltung: Allgemeines</subfield>
+    <subfield code="0">(DE-627)106410822</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">85.40</subfield>
+    <subfield code="j">Marketing</subfield>
+    <subfield code="0">(DE-627)106420143</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+  <datafield tag="983" ind1=" " ind2=" ">
+    <subfield code="a">oc</subfield>
+  </datafield>
+  <datafield tag="983" ind1=" " ind2=" ">
+    <subfield code="z">HSB Umlenkung</subfield>
+  </datafield>
+  <datafield tag="983" ind1=" " ind2=" ">
+    <subfield code="z">dx</subfield>
+  </datafield>
+  <datafield tag="983" ind1=" " ind2=" ">
+    <subfield code="a">oc</subfield>
+  </datafield>
+  <datafield tag="983" ind1=" " ind2=" ">
+    <subfield code="z">HSB Umlenkung</subfield>
+  </datafield>
+  <datafield tag="983" ind1=" " ind2=" ">
+    <subfield code="z">dx</subfield>
+  </datafield>
+  <datafield tag="983" ind1=" " ind2=" ">
+    <subfield code="a">oc</subfield>
+  </datafield>
+  <datafield tag="987" ind1=" " ind2=" ">
+    <subfield code="a">HSB Umlenkung</subfield>
+  </datafield>
+  <datafield tag="990" ind1=" " ind2=" ">
+    <subfield code="a">245432035</subfield>
+  </datafield>
+</record>
+</collection>
